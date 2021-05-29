@@ -1,12 +1,10 @@
 # Internet Application Course Project (Freelancing Website) - Front-End Section
 
----
-
 ## Requirements
 
 - Homepage
 - Admin
-  - Main Admin page ( For Posts)
+  - Main Admin page (For Posts) -done-
   - Admin's Users page
 - Client
   - Received proposal page
