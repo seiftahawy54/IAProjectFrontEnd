@@ -5,14 +5,16 @@
 - Homepage
 - Admin
   - Main Admin page (For Posts) -done-
-  - Admin's Users page
+  - Admin's Users page -done-
+  - Admin posts requests -done-
 - Client
-  - Received proposal page
-  - Edit His Data page
-  - Client's posts page
   - Create new post page
+  - Received proposal page -done-
+  - Edit His Data page -done-
+  - Client's posts page
 - Freelancer
-  - Main Posts Page (See without log in)
-  - Saved posts page
-  - Search functionality
-  - Login and Register form
+  - Main Posts Page (See without log in) -done-
+  - Saved posts page -done-
+  - Search functionality -done-
+  - Login -done-
+  - Register form -done-
